@@ -1,0 +1,3 @@
+[submodule "lecture3-submodule"]
+	path = lecture3-submodule
+	url = git@github.com:cmsc389T-spring22/lecture3-submodule.git
